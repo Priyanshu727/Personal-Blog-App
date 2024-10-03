@@ -1,0 +1,8 @@
+.post-title {
+    transition: color 0.3s ease, font-weight 0.3s ease;
+}
+
+.post-title:hover {
+    color: rgb(227, 29, 29) !important;
+    font-weight: bold;
+}
